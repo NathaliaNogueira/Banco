@@ -9,3 +9,5 @@ Projeto final de apresentação da matéria Lógica, Computação e Algoritmos d
 <hr>
 <h3>Tecnologias utilizadas: </h3><p></p>
 &#10003; Python
+<hr>
+Desenvolvido por <a href="https://www.linkedin.com/in/nathalia-nogueira12/" target="_blank" rel="external">Nathália Nogueira</a>.
